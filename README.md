@@ -1,8 +1,8 @@
 # NOOR Robot – AI Perception System
 
 By:
-Aya Oraby (201900967)
-Yasmeen Abosaif (202001116)
+Aya Oraby 
+Yasmeen Abosaif 
 
 **Course:** Robotics Project – CIE 595 Spring
 **Team:** AI Team – Zewail City of Science and Technology
