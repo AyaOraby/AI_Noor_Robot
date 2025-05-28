@@ -54,17 +54,9 @@ This system integrates several AI-based perception modules with ROS to enable:
 * Hardware: Jetson Nano or Raspberry Pi 4
 * Camera: Intel RealSense or USB webcam
 
-### 2. Clone the Project
 
-```bash
-cd ~/catkin_ws/src
-git clone <your_repo_link> noor_ai
-cd ~/catkin_ws
-catkin_make
-source devel/setup.bash
-```
 
-### 3. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 sudo apt update
@@ -72,7 +64,7 @@ sudo apt install ros-noetic-cv-bridge ros-noetic-image-transport ros-noetic-visi
 pip install deepface opencv-python dlib
 ```
 
-### 4. Download Pretrained Models
+### 3. Download Pretrained Models
 
 * YOLOv3 weights: [YOLOv3 Weights](https://pjreddie.com/media/files/yolov3.weights)
 * DeepFace models will auto-download on first run
