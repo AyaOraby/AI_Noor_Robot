@@ -68,6 +68,8 @@ pip install deepface opencv-python dlib
 
 * YOLOv3 weights: [YOLOv3 Weights](https://pjreddie.com/media/files/yolov3.weights)
 * DeepFace models will auto-download on first run
+* packages link   https://drive.google.com/drive/folders/1GbMzqU6o78yWGliWEAFnynD8MdWFbGTf
+  
 
 ---
 
